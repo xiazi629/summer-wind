@@ -1,1 +1,1 @@
-print('Hello World')
+While True:
